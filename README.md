@@ -2,6 +2,7 @@
 
 ###
 <p align='center'>I’m <strong>Miruna Agopian</strong>, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. My current stack includes JavaScript, CSS, and HTML, and I'm always eager to learn and grow.</p>
+<p align='center'>Let's talk in English, German and Romanian!</p>
 
 <div align="center">
   <img height="300" border-radius='5%' src="https://github.com/MirunaAgopian/MirunaAgopian/blob/main/githubgif-ezgif.com-optimize.gif?raw=true" alt="Intro GIF" />
