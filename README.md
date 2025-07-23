@@ -1,7 +1,7 @@
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Hi there!</h1>
 
 ###
-<p>I am Miruna Agopian, enthusiast front-end developer. My passion is to create and develop a clean UI/UX for my users. My main stack currently is JavaScrpit in combination with CSS ans HTML.</p>
+<p>I’m Miruna Agopian, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. My current stack includes JavaScript, CSS, and HTML, and I'm always eager to learn and grow.</p>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Don't be shy! Hit me up!</h2>
+<h2 align="left">Don't be shy! Hit me up!<span style="font-size:30px;">&#128071;</span></h2>
 
 ###
 
