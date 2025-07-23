@@ -1,7 +1,7 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi there! &#128075;</h1>
 
 ###
-<p>I’m Miruna Agopian, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. My current stack includes JavaScript, CSS, and HTML, and I'm always eager to learn and grow.</p>
+<p>I’m <strong>Miruna Agopian</strong>, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. My current stack includes JavaScript, CSS, and HTML, and I'm always eager to learn and grow.</p>
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
