@@ -2,7 +2,6 @@
 
 ###
 <p>I am Miruna Agopian, enthusiast front-end developer. My passion is to create and develop a clean UI/UX for my users. My main stack currently is JavaScrpit in combination with CSS ans HTML.</p>
-###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
