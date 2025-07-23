@@ -8,6 +8,7 @@
 </div>
 
 ###
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MirunaAgopian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" style="max-width: 100%; height: auto; max-height: 150px;" />
@@ -15,6 +16,8 @@
 </div>
 
 ###
+
+<h2 align="left">Current Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
