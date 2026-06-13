@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! &#128075;</h1>
 
 ###
-<p align='center'>I’m <strong>Miruna Agopian</strong>, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. My current stack includes JavaScript, CSS, and HTML, and I'm always eager to learn and grow.</p>
+<p align='center'>I’m <strong>Miruna Agopian</strong>, a passionate front-end developer focused on crafting clean, user-friendly UI/UX experiences. I'm always eager to learn and grow.</p>
 <p align='center'>Let's talk in English, German and Romanian!</p>
 
 <div align="center">
