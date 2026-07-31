@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" height="40" alt="n8n logo" />
+   <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" height="40" alt="n8n logo" />
 </div>
 
 
